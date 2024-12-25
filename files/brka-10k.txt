@@ -1,0 +1,31 @@
+Berkshire Hathaway Inc.  
+Form 10-K  
+Fiscal Year Ended: December 31, 2022
+
+**Balance Sheet**:  
+Assets:
+- Cash and Cash Equivalents: $25 billion  
+- Equity Investments: $300 billion  
+- Fixed Assets: $100 billion  
+- Total Assets: $425 billion  
+
+Liabilities:
+- Insurance Reserves: $90 billion  
+- Accounts Payable: $10 billion  
+- Long-term Debt: $50 billion  
+- Total Liabilities: $150 billion  
+
+**Income Statement**:  
+Revenue:
+- Insurance Premiums: $70 billion  
+- Railroad Operations: $20 billion  
+- Utility Operations: $15 billion  
+- Total Revenue: $105 billion  
+
+Expenses:
+- Insurance Claims: $50 billion  
+- Railroad Operations Cost: $12 billion  
+- Utility Operations Cost: $10 billion  
+- Total Expenses: $72 billion  
+
+Net Income: $33 billion
